@@ -1,0 +1,23 @@
+﻿  font.c
+  GameScene.c
+  image.c
+  input.c
+C:\Users\eunwo\OneDrive\바탕 화면\Dev\My-Assignment\Sunrin\선린 수업 준비\Sunrin_SDL_Project_Graphics\Sunrin_SDL_Project\input.c(29,30): warning C4090: '함수': 'const' 한정자가 서로 다릅니다.
+  linkedList.c
+  main.c
+C:\Users\eunwo\OneDrive\바탕 화면\Dev\My-Assignment\Sunrin\선린 수업 준비\Sunrin_SDL_Project_Graphics\Sunrin_SDL_Project\main.c(5,12): warning C4026: 정식 매개 변수 목록을 사용하여 함수를 선언했습니다.
+  MainScene.c
+C:\Users\eunwo\OneDrive\바탕 화면\Dev\My-Assignment\Sunrin\선린 수업 준비\Sunrin_SDL_Project_Graphics\Sunrin_SDL_Project\MainScene.c(33,25): warning C4133: '함수': 'SDL_Surface *'과(와) 'SDL_Renderer *' 사이의 형식이 호환되지 않습니다.
+C:\Users\eunwo\OneDrive\바탕 화면\Dev\My-Assignment\Sunrin\선린 수업 준비\Sunrin_SDL_Project_Graphics\Sunrin_SDL_Project\MainScene.c(34,18): warning C4133: '함수': 'SDL_Surface *'과(와) 'SDL_Renderer *' 사이의 형식이 호환되지 않습니다.
+C:\Users\eunwo\OneDrive\바탕 화면\Dev\My-Assignment\Sunrin\선린 수업 준비\Sunrin_SDL_Project_Graphics\Sunrin_SDL_Project\MainScene.c(36,20): warning C4133: '함수': 'SDL_Surface *'과(와) 'SDL_Renderer *' 사이의 형식이 호환되지 않습니다.
+  pch.c
+  timer.c
+  window.c
+C:\Users\eunwo\OneDrive\바탕 화면\Dev\My-Assignment\Sunrin\선린 수업 준비\Sunrin_SDL_Project_Graphics\Sunrin_SDL_Project\window.c(62,14): warning C4133: '=': 'SDL_Renderer *'과(와) 'SDL_Surface *' 사이의 형식이 호환되지 않습니다.
+C:\Users\eunwo\OneDrive\바탕 화면\Dev\My-Assignment\Sunrin\선린 수업 준비\Sunrin_SDL_Project_Graphics\Sunrin_SDL_Project\window.c(82,5): warning C4013: 'updateKeyState'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\eunwo\OneDrive\바탕 화면\Dev\My-Assignment\Sunrin\선린 수업 준비\Sunrin_SDL_Project_Graphics\Sunrin_SDL_Project\window.c(83,5): warning C4013: 'updateMouseState'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\eunwo\OneDrive\바탕 화면\Dev\My-Assignment\Sunrin\선린 수업 준비\Sunrin_SDL_Project_Graphics\Sunrin_SDL_Project\window.c(114,25): warning C4133: '함수': 'SDL_Surface *'과(와) 'SDL_Renderer *' 사이의 형식이 호환되지 않습니다.
+  코드를 생성하고 있습니다...
+C:\Users\eunwo\OneDrive\바탕 화면\Dev\My-Assignment\Sunrin\선린 수업 준비\Sunrin_SDL_Project_Graphics\Sunrin_SDL_Project\input.c(65): warning C4715: 'getButtonState': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\eunwo\OneDrive\바탕 화면\Dev\My-Assignment\Sunrin\선린 수업 준비\Sunrin_SDL_Project_Graphics\Sunrin_SDL_Project\input.c(42): warning C4715: 'getKeyState': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Sunrin_SDL_Project.vcxproj -> C:\Users\eunwo\OneDrive\바탕 화면\Dev\My-Assignment\Sunrin\선린 수업 준비\Sunrin_SDL_Project_Graphics\Debug\Sunrin_SDL_Project.exe
